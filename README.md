@@ -10,8 +10,11 @@ Professional Interests
     3d printing  
   Mathematics  
   
-Hobby Interests
-  Music
-  Board Games
-  Video Games
+Hobby Interests  
+  3d Printing
+  Music  
+  Woodworking  
+  Board Games  
+  Video Games  
+  Learning random new skills, like how to re-key locks
   
