@@ -1,4 +1,4 @@
-Andrew Davis
+Andrew Davis  
 San Diego, CA
 
 # Professional Interests  
