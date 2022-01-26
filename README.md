@@ -1,7 +1,7 @@
 Andrew Davis
 San Diego, CA
 
-Professional Interests  
+# Professional Interests  
   Biology Research  
     Disease Therapy  
     Aging  
@@ -10,7 +10,7 @@ Professional Interests
     3d printing  
   Mathematics  
   
-Hobby Interests  
+# Hobby Interests  
   3d Printing
   Music  
   Woodworking  
