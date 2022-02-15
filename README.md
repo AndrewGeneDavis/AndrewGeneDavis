@@ -16,5 +16,5 @@ San Diego, CA
   Woodworking  
   Board Games  
   Video Games  
-  Learning random new skills, like how to re-key locks
+  Learning new skills
   
