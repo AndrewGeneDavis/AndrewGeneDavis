@@ -11,7 +11,7 @@ San Diego, CA
   Mathematics  
   
 # Hobby Interests  
-  3d Printing
+  3d Printing  
   Music  
   Woodworking  
   Board Games  
